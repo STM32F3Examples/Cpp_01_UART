@@ -5,7 +5,7 @@ int main(){
 	Serial_stream* serial = new SerialUSART2(9600);
 
 	//User application
-	serial->printf("Hello World\n");
+	serial->printf("Hello World!\n");
 	while(1){
 	}
 }
