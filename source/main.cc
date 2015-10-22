@@ -1,4 +1,4 @@
-#include "retarget_stm32f3.h"                  // Device header
+#include "serial_stream_stm32f3.h"                  // Device header
 
 int main(){
 	//System configuration
